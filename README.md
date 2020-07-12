@@ -1,3 +1,6 @@
+#### __NOTE__ : 
+I have identified few problems in my submitted notebook, and am going to work on those problems and implement the solutions to them in a new notebook. I will upload the new improved notebook once it gets completed. For this new notebook I will just use the train dataset and split it into training and testing set and compare the results of different classification algorithms.
+
 # Novartis_Data_Science_Challenge
 
 ### Objective : To predict if the server will be hacked
@@ -25,6 +28,3 @@ This is the submitted csv file containing two columns, INCIDENT_ID and MULTIPLE_
 
 #### __RESULT__ :
 Based on the submission pred_rand.csv, a final score of __96.34747__ out of 100, was obtained.
-
-#### __FURTHER PLAN__ : 
-I have identified few problems in my submitted notebook, and am going to work on those problems and implement the solutions to them in a new notebook. I will upload the new improved notebook once it gets completed. For this new notebook I will just use the train dataset and split it into training and testing set and compare the results of different classification algorithms.
