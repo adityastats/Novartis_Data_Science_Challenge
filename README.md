@@ -1,5 +1,5 @@
 #### __NOTE__ : 
-I have identified few problems in my submitted notebook, and am going to work on those problems and implement the solutions to them in a new notebook. I will upload the new improved notebook once it gets completed. For this new notebook I will just use the train dataset and split it into training and testing set and compare the results of different classification algorithms.
+I have identified few problems in my submitted notebook, and am going to work on those problems and implement the solutions in a new notebook. I will upload the new improved notebook once it gets completed. For this new notebook I will just use the train dataset and split it into training and testing set and compare the results of different classification algorithms.
 
 # Novartis_Data_Science_Challenge
 
